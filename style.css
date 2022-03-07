@@ -399,4 +399,8 @@ img {
     overflow: hidden;
     padding: 0 1rem;
   }
+
+  .showcase-top a {
+    transform: translate(-10%, -50%);
+  }
 }
